@@ -2,19 +2,20 @@
 
 **Tableau**
 Map of Quebec Cities under study
-<img width="1920" height="1080" alt="Screenshot 2026-11-25 115750" src="https://github.com/user-attachments/assets/53fc6303-5061-4cf0-9c5b-8f2da2967538" />
+<img width="1699" height="885" alt="Screenshot 2026-11-25 120550" src="https://github.com/user-attachments/assets/68cf2041-df6a-4b41-87f7-3d3b38f53ef2" />
+
 
 Areas with Property types
-<img width="1707" height="751" alt="Screenshot 2026-11-25 114402" src="https://github.com/user-attachments/assets/0ad90f5a-0874-4dca-ac51-f6ee71760678" />
+<img width="1701" height="899" alt="Screenshot 2026-11-25 120641" src="https://github.com/user-attachments/assets/e99610bb-4ab1-48e1-8279-b8c34904e986" />
+
 
 Price, Property : Garage/Basement
 
-<img width="1920" height="1080" alt="Screenshot 2026-11-25 115920" src="https://github.com/user-attachments/assets/625d77a7-c7d5-4d68-b391-2ad535ca2f8d" />
+<img width="1703" height="885" alt="Screenshot 2026-11-25 120712" src="https://github.com/user-attachments/assets/38b62c4d-f128-4364-9c00-e532460f75c4" />
 
 Property vs Bedrooms-Bathrooms over the Years
 
-<img width="1920" height="1080" alt="Screenshot 2026-11-25 120013" src="https://github.com/user-attachments/assets/5f53709e-9509-4e7b-94fd-34fb357afd3a" />
-
+<img width="1889" height="888" alt="Screenshot 2026-11-25 120844" src="https://github.com/user-attachments/assets/6c2f3aef-ff7e-46b1-86af-ecd0fc28f98f" />
 
 **PowerBI**
 Expensive vs Affordable Areas: Median,Count Price
