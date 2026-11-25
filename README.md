@@ -43,8 +43,6 @@ This project was designed to help prospective homebuyers, real estate investors,
 
 ---
 
-## 🛠️ Data Preparation & Modeling
-Before connecting the dataset to Tableau and Power BI, the raw Kaggle CSV underwent cleaning and transformation:
 
 
 
