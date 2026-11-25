@@ -1,9 +1,5 @@
 # 📊 Quebec Real Estate Market Analysis (Tableau & Power BI)
 
-[![Tableau](https://shields.io)](https://tableau.com)
-[![Power BI](https://shields.io)](https://microsoft.com)
-[![Kaggle](https://shields.io)](https://kaggle.com)
-[![SQL / Python](https://shields.io)](https://python.org)
 
 An interactive Business Intelligence project analyzing residential real estate trends, regional pricing disparities, and property valuation drivers across Quebec (Montreal, Quebec City, Laval, Gatineau, and surrounding regions). Built in both **Tableau** and **Microsoft Power BI** to compare dashboarding workflows and provide actionable market insights.
 
@@ -20,9 +16,22 @@ An interactive Business Intelligence project analyzing residential real estate t
 ### Tableau Executive Overview
 <img width="1699" height="885" alt="image" src="https://github.com/user-attachments/assets/dce3a247-f3d3-4d4e-a2e8-f5102d221b12" />
 
+<img width="1701" height="899" alt="image" src="https://github.com/user-attachments/assets/497f8670-53a2-4a97-81dc-03889fce2ec8" />
+
+
+<img width="1703" height="885" alt="image" src="https://github.com/user-attachments/assets/d10eb493-38a7-42f8-91c1-cd937a047975" />
+
+<img width="1889" height="888" alt="image" src="https://github.com/user-attachments/assets/8f083c39-0934-4ac5-ae8f-44a5fc3018ad" />
 
 ### Power BI Interactive Report
-![Power BI Dashboard Preview](assets/powerbi_dashboard.png)
+
+<img width="1813" height="870" alt="image" src="https://github.com/user-attachments/assets/c7ee1dd9-2d3b-44be-b953-a66a74ad6c82" />
+
+
+<img width="1494" height="848" alt="image" src="https://github.com/user-attachments/assets/9feb59f6-6813-4a9b-bd1f-619c58dc6e07" />
+
+
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/abb5cca0-9f00-4578-85c6-84c9aec0f87b" />
 
 ---
 
